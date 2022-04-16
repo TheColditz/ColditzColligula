@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ColditzColligula, I do computer stuff in my free time.
 - 👀 I’m interested in privacy-protection, net neutrality, programming and content creation.
-- 🌱 I’m currently learning C# and Javascript.
+- 🌱 I’m currently writing some programs in Python.
 - 📫 You can reach me on Mastodon (@colditzcolligula@noc.social) and Threema (TSD4AMA9).
 
 <!---
