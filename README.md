@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://colligula.000webhostapp.com/](https://colligula.000webhostapp.com/)
 
-- 📫 You can reach me on **<a rel="me" href="https://tech.lgbt/@colditzcolligula">Mastodon</a> @colditzcolligula@tech.lgbt, Threema (TSD4AMA9) and Telegram (https://t.me/ColditzColligula)**
+- 📫 You can reach me on Telegram (https://t.me/ColditzColligula)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
