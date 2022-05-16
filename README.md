@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ColditzColligula](https://github.com/ColditzColligula)
 
-- 📫 You can reach me on Telegram (https://t.me/ColditzColligula)**
+- 📫 You can reach me on **Telegram (https://t.me/ColditzColligula)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
