@@ -2,11 +2,11 @@
 <h3 align="center">A passionate hobby developer and FOSS enthusiast from Germany</h3>
 
 
-- 🔭 I’m currently working on [CCTV-Companion](https://github.com/ColditzColligula/CCTV-Companion)
+- 🔭 I’m currently working on [CCTV-Companion](https://github.com/TheColditz/CCTV-Companion)
 
 - 🌱 I’m currently learning **Rust, Godot, JavaScript, GDScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ColditzColligula](https://github.com/ColditzColligula)
+- 👨‍💻 All of my projects are available at [https://github.com/TheColditz](https://github.com/TheColditz)
 
 
 <h3 align="left">Languages and Tools:</h3>
